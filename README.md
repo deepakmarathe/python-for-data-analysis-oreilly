@@ -1,2 +1,2 @@
-# python-for-data-analysis-oreilly
-python for data analysis - oreilly
+# Python for data analysis - oreilly
+
